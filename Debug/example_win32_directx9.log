@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\thorn\Desktop\imgui-master\examples\example_win32_directx9\main.cpp(78,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\thorn\Desktop\imgui-master\examples\example_win32_directx9\main.cpp(79,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  example_win32_directx9.vcxproj -> C:\Users\thorn\Desktop\imgui-master\examples\example_win32_directx9\Debug\example_win32_directx9.exe
