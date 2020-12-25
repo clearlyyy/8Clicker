@@ -1,0 +1,7 @@
+
+
+namespace AutoClicker
+{
+    
+    void Clicker();
+}
